@@ -7,9 +7,11 @@ import { FilterContextProvider } from './stores/filter-data.jsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <AppProvider>
-      <FilterContextProvider>
-        <App />
-      </FilterContextProvider>
-  </AppProvider>
+  <React.StrictMode>
+    <AppProvider>
+        <FilterContextProvider>
+          <App />
+        </FilterContextProvider>
+    </AppProvider>
+  </React.StrictMode>
 );
