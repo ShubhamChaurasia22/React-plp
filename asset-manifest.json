@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShubhamChaurasia22/React-plp.git/static/css/main.eaca259d.css",
+    "main.js": "/ShubhamChaurasia22/React-plp.git/static/js/main.bcceae15.js",
+    "index.html": "/ShubhamChaurasia22/React-plp.git/index.html",
+    "main.eaca259d.css.map": "/ShubhamChaurasia22/React-plp.git/static/css/main.eaca259d.css.map",
+    "main.bcceae15.js.map": "/ShubhamChaurasia22/React-plp.git/static/js/main.bcceae15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaca259d.css",
+    "static/js/main.bcceae15.js"
+  ]
+}
